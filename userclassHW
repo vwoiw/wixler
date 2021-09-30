@@ -1,0 +1,50 @@
+.hw {
+	padding: 20px;
+	margin: 0;
+	font-size: 10pt;
+}
+.hw h1 {
+	padding: 20px 0;
+	margin: 0;
+	border: none;
+	font-weight: 400;
+	font-size: 24pt;
+	color: #747474;
+}
+.hw h2 {
+	padding: 0;
+	margin: 0;
+	font-size: 12pt;
+	font-weight: bold;
+}
+.hw h2 b, .hw h2 strong {
+	font-weight: 400;
+	font-size: 10pt;
+	color: #C0C0C0;
+	padding: 0 5px;
+	margin: 0;
+	vertical-align: top;
+}
+.hw h3 {
+	padding-bottom: 20px;
+	margin: 0;
+	font-weight: 400;
+	font-style: italic;
+	color: #AF9EE7;
+}
+.hw ul {
+	padding: 5px 30px;
+	margin: 0;
+}
+.hw li {
+	margin: 0;
+	padding: 0;
+}
+.hw hr {
+	width: auto;
+	height: 2px;
+	background: #BED2EF;
+	border: none;
+	padding: 0;
+	margin: 40px 0;
+}
